@@ -1,0 +1,5 @@
+<html>  
+<body>  
+<a href="program28.html">Click for Second Page</a>  
+</body>  
+</html> 

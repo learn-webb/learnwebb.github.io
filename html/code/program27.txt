@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>table</title>
+</head>
+<body>
+<table border="5" bordercolor="red" cellspacing=0 bgcolor="yellow" width="50%" align="center">
+<caption> rowspan & colspan</caption>
+<tr>
+<td colspan="8" align="center"> SOFTBRAIN INFORMATIC TECHNOLOGY PVT.LTD</TD>
+</TR>
+<TR>
+<TD COLSPAN="2" align="center" bgcolor="pink" width="50%"> SOFTBRAIN</TD>
+<TD COLSPAN="2" align="center"> HARDWARE</TD>
+<TD COLSPAN="2" align="center"> ACCOUNTS</TD>
+<TD COLSPAN="2" align="center"> MILTIMEDIA</TD>
+</TR>
+<TR>
+<TD ROWSPAN="4" align="center"> COMPUTER</TD>
+<TD align="center"> DOS </TD>
+<TD align="center"> BASIC </TD>
+<TD align="center"> NET </TD>
+<TD align="center"> CASH </TD>
+<TD align="center"> BOOK </TD>
+<TD align="center">FLASH </TD>
+<TD ROWSPAN="4" align="center"> EDUCATION</TD>
+</TR>
+<TR>
+<TD align="center"> OFFICE </TD>
+<TD align="center"> CD</TD>
+<TD align="center"> MOUSE </TD>
+<TD align="center"> YEAR </TD>
+<TD align="center"> TRAIL </TD>
+<TD align="center"> JASC </TD>
+</TR>
+<TR>
+<TD align="center"> DTP </TD>
+<TD align="center"> KEY </TD>
+<TD align="center"> HARD </TD>
+<TD align="center"> LOSS </TD>
+<TD> GOOD </TD>
+<TD> GATI </td>
+</TR>
+<TR>
+<TD COLSPAN="6" align="center"> Ist Floor, SCO 33, Abheypur,India.Area.</td>
+</tr>
+</table>
+</body>
+</html> 

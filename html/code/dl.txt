@@ -1,0 +1,4 @@
+1. <dl> tag defines the start of the list.
+2.<dt> tag defines a term.
+3.<dd> tag defines the term definition (description).
+

@@ -1,0 +1,2 @@
+HTML <frameset> tag is used to contain the group of frames which can be controlled and styled as a unit. The <frameset> element also specifies the number of rows and columns in the frameset, and how much space they will occupy in a frame.
+

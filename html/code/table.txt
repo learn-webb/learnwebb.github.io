@@ -1,0 +1,4 @@
+We can create a table to display data in tabular form, using <table> element, with the help of <tr> , <td>, and <th> elements.
+
+In Each table, table row is defined by <tr> tag, table header is defined by <th>, and table data is defined by <td> tags.
+

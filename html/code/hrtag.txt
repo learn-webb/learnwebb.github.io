@@ -1,0 +1,2 @@
+HTML <hr> tag is used to specify a paragraph-level thematic break in HTML document. It is used when you abruptly change your topic in your HTML document. It draw a horizontal line between them. It is also called a Horizontal Rule in HTML.
+

@@ -1,0 +1,4 @@
+The <br> tag in HTML document is used to create a line break in a text.
+It is generally used in poem or address where the division of line is necessary. It is an empty tag, which means it does not need a company of end tag. If you place the <br> tag in the HTML code, then it works the same as pressing the enter key in a word processor.
+
+

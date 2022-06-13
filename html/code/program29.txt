@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Frame tag</title>
+</head>
+  <frameset cols="25%,50%,25%">
+  <frame src="page15.html" >
+  <frame src="page16.html">	
+  <frame src="page17.html">
+  </frameset>
+</html>
